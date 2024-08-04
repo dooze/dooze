@@ -5,7 +5,7 @@ import { sleep } from "https://deno.land/x/sleep@v1.2.1/mod.ts";
 // Vars
 const DataFetchURL = "https://raw.githubusercontent.com/dooze/dooze/proxy/data.json"
 let Data = {
-    "PHPSESSID": "",
+    "PHPSESSID": "06628dccd12b8bfb2fe3af98abc9e0e9",
     "tier": "pro_tier"
 }
 
